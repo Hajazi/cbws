@@ -1,4 +1,4 @@
-# SFML Running Message Example
+# SFML 2 Running Message Example
 Example how to create running message with SFML 2.x using Codeblocks IDE on Windows environment.
 
 1. Install Codeblocks & SFML
@@ -94,6 +94,10 @@ Example how to create running message with SFML 2.x using Codeblocks IDE on Wind
 
    Change to this code:
    
+        /* 
+        * Written by Hajazi <hajazi@gmail.com>, Apr/28,2015
+        */
+
         #include <SFML/Graphics.hpp>
 
         #define BOX_W       150     // width
