@@ -70,6 +70,8 @@ Example how to create running message using SFML 2.x using Codeblocks IDE on Win
 5. Change Your Code for Running Text:
    ----------------------------------
    Your original code:
+
+
      #include <SFML/Graphics.hpp>
 
      int main()
