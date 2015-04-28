@@ -1,5 +1,5 @@
 # cbws
-Example how to create running message using SFML 2.x using Codeblocks IDE on Windows environment.
+Example how to create running message with SFML 2.x using Codeblocks IDE on Windows environment.
 
 1. Install Codeblocks & SFML
    -------------------------
