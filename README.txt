@@ -1,5 +1,5 @@
-# SFML 2 Running Message Example
-Example how to create running message with SFML 2.x using Codeblocks IDE on Windows environment.
+# SFML 2 Running Text Example
+Example how to create running text with SFML 2.x using Codeblocks IDE on Windows environment.
 
 1. Install Codeblocks & SFML
    -------------------------
